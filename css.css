@@ -16,7 +16,7 @@ h1 {
 }
 
 .flexbox-container {
-    position: absolute;
+    position: relative;
     display: flex;
     font-family: 'Langar', cursive;
     justify-content: center;
