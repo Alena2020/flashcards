@@ -1,4 +1,5 @@
-# flashcards   - JetBrains Academy project
+# flashcards  
+My project from the JetBrains Academy Track: Frontend Developer.
 
 ## Technologies:
 #### - HTML
