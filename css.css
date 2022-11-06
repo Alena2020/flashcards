@@ -57,6 +57,7 @@ h1 {
 }
 
 .back {
+    background-color: aqua;
     transform: rotateY(180deg);
     z-index: 1;
     color: indigo;
