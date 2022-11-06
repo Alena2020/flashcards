@@ -44,6 +44,7 @@ h1 {
     transform-style: preserve-3d;
     transition: all 1s linear;
     backface-visibility: hidden;
+    z-index: 2;
 }
 
 .front, .back {
@@ -52,7 +53,7 @@ h1 {
 }
 
 .front {
-    z-index: 2;
+    z-index: 3;
 }
 
 .back {
