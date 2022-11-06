@@ -43,6 +43,7 @@ h1 {
     height: 190px;
     transform-style: preserve-3d;
     transition: all 1s linear;
+    backface-visibility: hidden;
 }
 
 .front, .back {
