@@ -36,11 +36,11 @@ h1 {
     border: 1px solid salmon;
     border-radius: 10px;
     margin: 10px;
-    padding-top: 30px;
+    padding-top: 50px;
     text-align: center;
-    font-size: 23px;
-    width: 190px;
-    height: 190px;
+    font-size: 20px;
+     width: 200px;
+    height: 200px;
     transform-style: preserve-3d;
     transition: all 1s linear;
     backface-visibility: hidden;
@@ -48,6 +48,8 @@ h1 {
 }
 
 .front, .back {
+    width: 200px;
+    height: 200px;
     position: center;
     backface-visibility: hidden;
 }
